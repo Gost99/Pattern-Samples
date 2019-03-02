@@ -1,0 +1,11 @@
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\bin\Debug\netcoreapp2.2\StudyPatterns.deps.json
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\bin\Debug\netcoreapp2.2\StudyPatterns.runtimeconfig.json
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\bin\Debug\netcoreapp2.2\StudyPatterns.runtimeconfig.dev.json
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\bin\Debug\netcoreapp2.2\StudyPatterns.dll
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\bin\Debug\netcoreapp2.2\StudyPatterns.pdb
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\obj\Debug\netcoreapp2.2\StudyPatterns.csprojAssemblyReference.cache
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\obj\Debug\netcoreapp2.2\StudyPatterns.csproj.CoreCompileInputs.cache
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\obj\Debug\netcoreapp2.2\StudyPatterns.AssemblyInfoInputs.cache
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\obj\Debug\netcoreapp2.2\StudyPatterns.AssemblyInfo.cs
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\obj\Debug\netcoreapp2.2\StudyPatterns.dll
+D:\PROJECTS\StudyPatterns\StudyPatterns\StudyPatterns\obj\Debug\netcoreapp2.2\StudyPatterns.pdb
